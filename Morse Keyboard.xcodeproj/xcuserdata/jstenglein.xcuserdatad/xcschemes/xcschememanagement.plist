@@ -9,9 +9,19 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>MorseKeyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>924DF67F1A17FA3F00B516D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>92813EE11A17E9620067786C</key>
 		<dict>
 			<key>primary</key>
